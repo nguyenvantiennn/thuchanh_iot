@@ -103,7 +103,9 @@ Message info không được consumer nào nhận
 
 <img width="488" height="127" alt="image" src="https://github.com/user-attachments/assets/9ec6421d-962d-4dcb-a484-4d53c79ee218" />
 
+
 <img width="491" height="89" alt="image" src="https://github.com/user-attachments/assets/9213a812-d5b7-4369-8e8f-aeadb5ed2949" />
+
 
 <img width="511" height="94" alt="image" src="https://github.com/user-attachments/assets/9702f2a4-a6a4-4279-94bb-4a5fc2505faf" />
 
