@@ -83,13 +83,23 @@ Payload JSON
 
 ## Cách chạy Bài 3. Mô phỏng hệ thống điều phối cảnh báo IoT với exchange
 
-### B1: Chạy device trong terminal 1
-python device_bai3.py
+### B1: Chạy Consumer trong terminal 1
+```bash
+python warning_consumer_bai3.py
+```
 <img width="491" height="81" alt="image" src="https://github.com/user-attachments/assets/d2049126-4804-4f65-a2e2-afa31de1f5a2" />
 
-### B2: Chạy controller trong terminal 2
-python controller_bai3.py
+### B2: Chạy Consumer trong terminal 2
+```bash
+python critical_consumer.py
+```
 <img width="503" height="80" alt="image" src="https://github.com/user-attachments/assets/d0bc52ad-69c8-47a4-93a9-3e9674755612" />
+
+### B3: Chạy Producer trong terminal 3
+```bash
+python alert_producer.py
+```
+<img width="488" height="127" alt="image" src="https://github.com/user-attachments/assets/9ec6421d-962d-4dcb-a484-4d53c79ee218" />
 
 ### Kết quả:
 
